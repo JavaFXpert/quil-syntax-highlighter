@@ -3,7 +3,7 @@
 
 Provides a file template and syntax highlighting in PyCharm (by JetBrains) for the Quil quantum instruction language, which is introduced in the following paper:
 
-Smith, Curtis, and Zeng (2016, August 11). A Practical Quantum Instruction Set Architecture	[arXiv:1608.03355](https://arxiv.org/abs/1608.03355) [quant-ph].
+Smith, Curtis, and Zeng (2016, August 11). A Practical Quantum Instruction Set Architecture	[arXiv:1608.03355](https://arxiv.org/abs/1608.03355 target="_blank") [quant-ph].
 
 #### Implementation instructions ####
 1. Download the file named **file-templates-types-schemes.jar** 
