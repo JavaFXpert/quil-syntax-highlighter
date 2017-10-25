@@ -1,5 +1,5 @@
 # quil-syntax-highlighter
-### Quil (Quantum Instruction Language) syntax highlighting ###
+### Quil (Quantum Instruction Language) syntax highlighter ###
 
 Provides a file template and syntax highlighting in PyCharm (by JetBrains) for the Quil quantum instruction language, which is introduced in the following paper:
 
