@@ -9,7 +9,9 @@ Smith, Curtis, and Zeng (2016, August 11). A Practical Quantum Instruction Set A
 1. Download the file named **file-templates-types-schemes.jar** 
 2. Import the file into PyCharm using the **File | Import Settings...** dialog.
 
-The Quil file type (extension **quil**) should appear in **New** file dialogs. Quil keywords including directives, instructions, and gates, should be highlighted.
+The Quil file type (extension **quil**) should appear in **New** file dialogs. Quil keywords including directives, instructions, and gates, should be highlighted. Here is a simple example when the PyCharm default color scheme is selected:
+
+![Syntax highlighting example](https://github.com/JavaFXpert/quil-syntax-highlighter/blob/master/default-scheme-example.png)
 
 #### Known issues ####
 Hyphenated keywords are only highlighted up to their hyphens.  
